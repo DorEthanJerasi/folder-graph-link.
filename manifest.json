@@ -1,0 +1,9 @@
+{
+  "id": "Folder-Graph-Link",
+  "name": "Folder Notes",
+  "version": "1.27.0",
+  "minAppVersion": "0.12.0",
+  "author": "DorEthanJerasi",
+  "description": "Automatically create and manage folder notes.",
+  "isDesktopOnly": false
+}

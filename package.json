@@ -1,0 +1,14 @@
+{
+    "name": "folder-graph-link",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.0"
+    },
+    "dependencies": {
+        "obsidian": "^1.7.2"
+    }
+}
